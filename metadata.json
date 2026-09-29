@@ -1,0 +1,6 @@
+{
+  "name": "itzfizz-living-signal",
+  "description": "ITZFIZZ — The Living Digital Universe. A scroll-driven creative technology experience featuring the Living Signal Core.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
